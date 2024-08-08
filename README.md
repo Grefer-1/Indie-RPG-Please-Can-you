@@ -6,6 +6,7 @@ Information:
 Please, Can you is a classic horror JRPG where you realized that you are trapped inside your Apartment in an infinite Death Loop.
 
 Features:
+- Made with Unity and C#.
 - Top-down 2.5D using Tilemap and Shaders.
 - Using Unity's new InputSystem, custom Text Animator addon.
 - Event System with Observer Pattern.
